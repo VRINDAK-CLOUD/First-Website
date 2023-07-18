@@ -1,0 +1,74 @@
+
+ 
+        /* Styling the Body element i.e. Color,
+        Font, Alignment */
+        body {
+            background-color: #FFFFFF;
+            font-family: Verdana;
+        }
+        
+       .main-part {
+        padding-top: 60px;
+        padding-bottom: 120px;
+
+       }
+       .white, .white a {
+        color: #fff;
+       }
+        /* Styling the Form (Color, Padding, Shadow) */
+        form {
+            background-color: #fff;
+            padding: 30px 20px;
+            box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+        }
+        .navbar-dark .navbar-nav .nav-link {
+         color: white;
+        }
+       .dropdown a{
+        color: white;
+        text-decoration: none;
+        }
+        .dropdown .custom-color a{
+            color: #777;
+           
+            }
+        .navbar-nav .nav-link {
+            color:  white; /* Example color */
+            font-size: 16px; /* Example font size */
+          }
+          .navbar-nav .nav-item  a {
+            color:  white; /* Example color */
+        }
+        .form-style{
+            border-radius: 25px;
+        }
+        
+        
+        /* Style the footer */
+footer {
+    background-color: #777;
+    padding: 15px;
+    text-align: center;
+    color: white;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 27px;
+    text-decoration: none;
+  }
+   h1{
+    color: rgb(20, 43, 10);
+   }
